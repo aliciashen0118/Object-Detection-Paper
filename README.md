@@ -74,10 +74,10 @@
    * **Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector**  
      *Qi Fan,Wei Zhuo,Chi-Keung Tang,Yu-Wing Tai*  
      CVPR 2020,[[PDF]](https://arxiv.org/pdf/1908.01998.pdf)
-    * **【Context R-CNN】Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection**  
+   * **【Context R-CNN】Context R-CNN: Long Term Temporal Context for Per-Camera Object Detection**  
      *Sara Beery,Guanhang Wu,Vivek Rathod,Ronny Votel,Jonathan Huang*  
      CVPR 2020,[[PDF]](https://arxiv.org/pdf/1912.03538.pdf)  
-    * **【D2Det】D2Det: Towards High Quality Object Detection and Instance Segmentation**  
+   * **【D2Det】D2Det: Towards High Quality Object Detection and Instance Segmentation**  
      *Jiale Cao,Hisham Cholakkal,Rao Muhammad Anwer,Fahad Shahbaz Khan,Yanwei Pang,Ling Shao*  
      CVPR 2020,[[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf),[[code]](https://github.com/JialeCao001/D2Det)  
    * **【AugFPN】AugFPN: Improving Multi-scale Feature Learning for Object Detection**  

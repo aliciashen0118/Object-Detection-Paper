@@ -34,7 +34,7 @@
    * **【SPP】Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition**  
      *Kaiming He,Xiangyu Zhang,Shaoqing Ren,and Jian Sun*  
      ECCV 2014,[[PDF]](https://arxiv.org/pdf/1406.4729.pdf),[[code]](https://github.com/ShaoqingRen/SPP_net)
-   * **Fast R-CNN**  
+   * **【Fast R-CNN】Fast R-CNN**  
      *Ross Girshick*  
      ICCV 2015,[[PDF]](https://arxiv.org/pdf/1504.08083.pdf),[[code]](https://github.com/rbgirshick/fast-rcnn)
    * **【Faster R-CNN】Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**  

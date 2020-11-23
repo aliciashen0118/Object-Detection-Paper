@@ -64,6 +64,9 @@
    * **【Mask R-CNN】Mask R-CNN**  
      *Kaiming He,Georgia Gkioxari,Piotr Doll´ar,Ross Girshick*  
      ICCV 2017,[[PDF]](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf),[[code]](https://github.com/facebookresearch/Detectron)
+   * **【YOLOv3】YOLOv3: An Incremental Improvement**  
+     *Joseph Redmon,Ali Farhadi*  
+     arXiv 2018,[[PDF]](https://pjreddie.com/media/files/papers/YOLOv3.pdf),[[code]](https://pjreddie.com/darknet/yolo/)
 ## Anchor_Free
    * **【CenterNet】Objects as Points**  
      *Xingyi Zhou,Dequan Wang,Philipp Kr¨ahenb¨uhl*  

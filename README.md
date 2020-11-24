@@ -67,6 +67,9 @@
    * **【YOLOv3】YOLOv3: An Incremental Improvement**  
      *Joseph Redmon,Ali Farhadi*  
      arXiv 2018,[[PDF]](https://pjreddie.com/media/files/papers/YOLOv3.pdf),[[code]](https://pjreddie.com/darknet/yolo/)
+   * **【RefineDet】Single-Shot Refinement Neural Network for Object Detection**  
+     *Shifeng Zhang,Longyin Wen,Xiao Bian,Zhen Lei,Stan Z. Li4*  
+     [CVPR 2018,[[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Single-Shot_Refinement_Neural_CVPR_2018_paper.pdf),[[code]](https://github.com/sfzhang15/RefineDet)
 ## Anchor_Free
    * **【CenterNet】Objects as Points**  
      *Xingyi Zhou,Dequan Wang,Philipp Kr¨ahenb¨uhl*  
